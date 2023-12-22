@@ -82,7 +82,7 @@ sections:
           location: Boston
           date_start: '2021-04-01'
           date_end: '2021-08-31'
-          description: '
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
