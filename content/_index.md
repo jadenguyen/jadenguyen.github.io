@@ -65,7 +65,7 @@ sections:
         - title: Senior Research Analyst
           company: Lightcast
           company_url: ''
-          company_logo: org-gc
+          company_logo: lightcast-logo
           location: Boston
           date_start: '2023-07-01'
           date_end: ''
@@ -75,14 +75,14 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Senior Associate Intern
+          company: Charles River Associates
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: CharlesRiver_logo_white
+          location: Boston
+          date_start: '2021-04-01'
+          date_end: '2021-08-31'
+          description: '
     design:
       columns: '2'
   - block: accomplishments
