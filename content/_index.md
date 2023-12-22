@@ -91,7 +91,7 @@ sections:
       title: 'Accomplish&shy;ments'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: Dec 2023
+      date_format: Jan 2006
       # Accomplishments.
       #   Add/remove as many `item` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.
@@ -100,7 +100,7 @@ sections:
       items:
         - certificate_url: https://www.erdosinstitute.org/certificates/fall-2023/data-science-boot-camp/ngoc-nguyen
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2023-12-07'
           description: ''
           icon: ErdősLogoNewSmall
           organization: Erdős Institute 
