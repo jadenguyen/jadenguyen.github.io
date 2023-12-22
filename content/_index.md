@@ -102,7 +102,7 @@ sections:
           date_end: ''
           date_start: '2023-12-07'
           description: ''
-          icon: ErdősLogoNewSmall
+          icon: erdos-logo
           organization: Erdős Institute 
           organization_url: https://www.erdosinstitute.org/
           title: Data Science Boot Camp
