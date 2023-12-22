@@ -78,7 +78,7 @@ sections:
         - title: Senior Associate Intern
           company: Charles River Associates
           company_url: ''
-          company_logo: CharlesRiver_logo_white
+          company_logo: charles_river_associates_logo
           location: Boston
           date_start: '2021-04-01'
           date_end: '2021-08-31'
