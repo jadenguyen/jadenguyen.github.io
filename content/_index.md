@@ -70,11 +70,10 @@ sections:
           date_start: '2023-07-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              * Perform quantitative analysis by leveraging various data sources to explore, model, and recommend talent strategies
+              * Communicate results to high-profile clients and stakeholders via presentations and written reports
+              * Utilize NLP to automate processes and enhance efficiency in generating custom data-driven insights for clients
 
-              * Analysing
-              * Modelling
-              * Deploying
         - title: Senior Associate Intern
           company: Charles River Associates
           company_url: ''
@@ -82,7 +81,20 @@ sections:
           location: Boston
           date_start: '2021-04-01'
           date_end: '2021-08-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+              * Conducted statistical analyses to support antitrust litigation in automobiles, agriculture, pharmaceuticals, retail
+        
+        - title: Deputy Manager
+          company: Mahindra Finance
+          company_url: ''
+          company_logo: mahindra-logo
+          location: ''
+          date_start: '2014-07-01'
+          date_end: '2016-03-31'
+          description: |2-
+              * Built credit default predictive models with Logistic Regression and Time-to-Event Analysis to screen default risks
+              * Created a web application with R Shiny to host these credit default models, serving ∼1M borrowers in housing market
+
     design:
       columns: '2'
   - block: accomplishments
@@ -106,25 +118,7 @@ sections:
           organization: Erdős Institute 
           organization_url: https://www.erdosinstitute.org/
           title: Data Science Boot Camp
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+          url: 'https://www.erdosinstitute.org/programs/fall-2023/data-science-boot-camp'
     design:
       columns: '2'
   # - block: collection
