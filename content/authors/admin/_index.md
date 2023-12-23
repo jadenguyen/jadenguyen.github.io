@@ -106,7 +106,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/CV_Jade-Nguyen-12-10-2023.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
