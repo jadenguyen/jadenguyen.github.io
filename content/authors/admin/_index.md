@@ -70,8 +70,8 @@ skills:
       - name: Knitting
         description: ''
         percent: 80
-        icon: mitten-solid
-        # icon_pack: fas
+        icon: mitten
+        icon_pack: fas
 
 
 # Social/Academic Networking
