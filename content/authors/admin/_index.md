@@ -70,7 +70,7 @@ skills:
       - name: Knitting
         description: ''
         percent: 100
-        icon: person-hiking
+        icon: icons/mitten-solid.svg
         icon_pack: fas
 
 
