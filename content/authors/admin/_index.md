@@ -71,7 +71,7 @@ skills:
         description: ''
         percent: 100
         icon: icons/mitten-solid.svg
-        icon_pack: fas
+        # icon_pack: fas
 
 
 # Social/Academic Networking
