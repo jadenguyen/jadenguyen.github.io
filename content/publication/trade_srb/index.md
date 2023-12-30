@@ -55,7 +55,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Female share among infants vs mother's exposure to tariff cuts, before and after 2001 US-VN Trade Agreement'
+  caption: "Female share among infants vs mother's exposure to tariff cuts, before and after 2001 US-VN Trade Agreement"
   focal_point: ''
   preview_only: false
 
