@@ -26,11 +26,11 @@ summary: "This paper utilizes game theory, nonparametric regression, and panel D
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
+# - name: Custom Link
+#   url: http://example.org
 url_pdf: 'https://jadenguyen.github.io/papers/Jade%20Ngoc%20Nguyen%20-%20Job%20Market%20Paper-09022023.pdf'
 url_code: ''
 url_dataset: ''
@@ -52,15 +52,15 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+projects: []
+# - internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ''
 ---
 
 <!-- {{% callout note %}}
