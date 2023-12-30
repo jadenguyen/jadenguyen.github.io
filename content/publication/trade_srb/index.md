@@ -43,7 +43,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4582123'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
