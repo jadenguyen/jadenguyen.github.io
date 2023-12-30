@@ -11,7 +11,7 @@ authors:
 # Author notes (optional)
 author_notes:
   - 'Lightcast'
-  - 'Yale'
+  - 'Yale University'
 
 date: '2023-09-24T00:00:00Z'
 doi: 'https://doi.org/10.2139/ssrn.4582123'
@@ -56,9 +56,9 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: "Female share among infants vs mother's exposure to tariff cuts, before and after 2001 US-VN BTA"
-  placement: 2
+  placement: 1
   focal_point: ''
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
