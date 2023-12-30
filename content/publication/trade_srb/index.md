@@ -10,8 +10,8 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - 'Lightcast'
+  - 'Yale'
 
 date: '2023-09-24T00:00:00Z'
 doi: 'https://doi.org/10.2139/ssrn.4582123'
