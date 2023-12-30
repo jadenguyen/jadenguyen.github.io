@@ -57,8 +57,8 @@ url_video: ''
 image:
   caption: "Female share among infants vs mother's exposure to tariff cuts, before and after 2001 US-VN BTA"
   placement: 1
-  focal_point: ''
-  preview_only: true
+  focal_point: 'Smart'
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
