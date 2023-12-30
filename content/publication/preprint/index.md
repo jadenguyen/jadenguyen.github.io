@@ -1,5 +1,6 @@
 ---
-title: "An example preprint / working paper"
+title: "Bunching and Learning in Targeting Poverty: Evidence from Vietnam"
+
 authors:
 - admin
 date: "2019-04-07T00:00:00Z"
