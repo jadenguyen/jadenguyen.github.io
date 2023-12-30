@@ -13,8 +13,8 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2023-09-24T00:00:00Z'
+doi: 'https://doi.org/10.2139/ssrn.4582123'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -55,7 +55,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: "Female share among infants vs mother's exposure to tariff cuts, before and after 2001 US-VN Trade Agreement"
+  caption: "Female share among infants vs mother's exposure to tariff cuts, before and after 2001 US-VN BTA"
   focal_point: ''
   preview_only: false
 
