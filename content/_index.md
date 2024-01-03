@@ -83,6 +83,18 @@ sections:
           date_end: '2021-08-31'
           description: |2-
               * Conducted statistical analyses to support antitrust litigation in automobiles, agriculture, pharmaceuticals, retail
+
+        - title: Doctoral Researcher and Instructor
+          company: Boston College
+          company_url: ''
+          company_logo: boston-college-5
+          location: Boston
+          date_start: '2016-09-01'
+          date_end: '2022-05-31'
+          description: |2-
+              * [Research papers](https://jadenguyen.github.io/publication/)
+              * Research Assistant for Prof. Anant Nyshadham and conducted econometric analyses for the paper [“Expectations, Wage Hikes, and Worker Voice: Evidence from a Field Experiment” (The Economic Journal, July 2022)](https://doi.org/10.1093/ej/ueac001)
+              * Taught undergraduate courses in Microeconomic Theory; TA-ed in Statistics Lab, Principles of Economics, Econometrics
         
         - title: Deputy Manager
           company: Mahindra Finance

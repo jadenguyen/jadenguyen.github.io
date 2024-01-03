@@ -6,7 +6,7 @@ title: 'Why does the sex ratio at birth rise? Evidence from Vietnam'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Nghiem Huynh
+  - [Nghiem Huynh](https://nghiemhuynh.com/)
 
 # Author notes (optional)
 author_notes:
@@ -56,8 +56,8 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: "Female share among infants vs mother's exposure to tariff cuts, before and after 2001 US-VN BTA"
-  placement: 1
-  focal_point: 'Smart'
+  placement: ''
+  focal_point: ''
   preview_only: false
 
 # Associated Projects (optional).
