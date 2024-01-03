@@ -87,7 +87,7 @@ sections:
         - title: Deputy Manager
           company: Mahindra Finance
           company_url: ''
-          company_logo: mahindra-logo
+          company_logo: mahindralogo
           location: ''
           date_start: '2014-07-01'
           date_end: '2016-03-31'
