@@ -186,10 +186,10 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured Publications
+      title: Research Papers
       filters:
         folders:
-          - publication
+          - papers
         featured_only: true
     design:
       columns: '2'
@@ -203,7 +203,7 @@ sections:
       #   {{% /callout %}}
       filters:
         folders:
-          - publication
+          - papers
         exclude_featured: false
     design:
       columns: '2'
