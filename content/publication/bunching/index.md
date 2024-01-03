@@ -22,7 +22,7 @@ abstract: "Manipulation of the eligibility criteria is one reason that could inc
 
 
 # Summary. An optional shortened abstract.
-summary: "This paper utilizes game theory, nonparametric regression, and panel Data to detect income misreporting and uncover a novel mechanism that improves the screening process of welfare programs in developing country contexts."
+summary: "This paper utilizes game theory, nonparametric regression, and panel data to detect income misreporting and uncover a novel mechanism that improves the screening process of welfare programs in developing country contexts."
 
 tags:
 - Source Themes
