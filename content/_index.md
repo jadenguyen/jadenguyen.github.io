@@ -189,7 +189,7 @@ sections:
       title: Research Papers
       filters:
         folders:
-          - papers
+          - publication
         featured_only: true
     design:
       columns: '2'
@@ -203,7 +203,7 @@ sections:
       #   {{% /callout %}}
       filters:
         folders:
-          - papers
+          - publication
         exclude_featured: false
     design:
       columns: '2'
