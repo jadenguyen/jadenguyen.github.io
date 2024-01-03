@@ -6,7 +6,7 @@ title: 'Why does the sex ratio at birth rise? Evidence from Vietnam'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - [Nghiem Huynh](https://nghiemhuynh.com/)
+  - Nghiem Huynh
 
 # Author notes (optional)
 author_notes:
