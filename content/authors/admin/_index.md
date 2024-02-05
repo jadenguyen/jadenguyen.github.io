@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Senior Research Analyst
+role: Senior Consultant
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -106,7 +106,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/CV_Jade-Nguyen-12-10-2023.pdf
+    link: uploads/CV_Jade-Nguyen-02-2024.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
