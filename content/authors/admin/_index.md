@@ -112,6 +112,6 @@ social:
 highlight_name: true
 ---
 
-Jade Nguyen is a PhD economist with research interests in Causal Inference and Machine Learning in economics and business applications. She combined theoretical economic modeling with quasi-experimental empirical techniques to analyze the effectiveness of welfare programs and estimate the causal impacts of trade policies on fertility decision and female employment. She currently works as a Senior Research Analyst at Lightcast and helps firms optimize on workforce strategies with in-depth data-driven analytics. 
+Jade Nguyen is a PhD economist with research interests in Causal Inference and Machine Learning in economics and business applications. She combined theoretical economic modeling with quasi-experimental empirical techniques to analyze the effectiveness of welfare programs and estimate the causal impacts of trade policies on fertility decision and female employment. She currently works as a Senior Consultant at Lightcast and helps firms optimize on workforce strategies with in-depth data-driven analytics. 
 
 {style="text-align: justify;"}

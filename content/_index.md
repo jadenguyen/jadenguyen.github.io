@@ -62,7 +62,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Senior Research Analyst
+        - title: Senior Consultant
           company: Lightcast
           company_url: ''
           company_logo: lightcast-logo
@@ -83,6 +83,7 @@ sections:
           date_end: '2021-08-31'
           description: |2-
               * Conducted statistical analyses to support antitrust litigation in automobiles, agriculture, pharmaceuticals, retail
+              * Tasks included: natural experiment, event study, market definition, new competitor detection, customer churning
 
         - title: Doctoral Researcher and Instructor
           company: Boston College
